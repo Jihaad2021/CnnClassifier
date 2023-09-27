@@ -1,1 +1,1 @@
-from textSummarizer.utils.common import *
+from cnnClassifier.utils.common import *
